@@ -1,0 +1,136 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_A54F2F6F_81F5_17CF_41B2_9D30B3565826.source = https://api.whatsapp.com/send/?phone=5524988750064&text&type=phone_number&app_absent=0
+LinkBehaviour_9FEA2BB2_811D_1F51_41D0_5C4C9A2BC9C5.source = https://api.whatsapp.com/send/?phone=5524988750064&text&type=phone_number&app_absent=0
+WebFrame_91BD4FF3_811F_16D6_41D3_A7C4E2EF2BFD.url = https://maps.google.com/maps?output=embed&center=-22.5373887,-44.1981693&z=17&q=Estr.+Gov.+Chagas+Freitas,+22+-+a+-+Colonia+Santo+Antonio,+Barra+Mansa+-+RJ,+27351-720
+WebFrame_91BD4FF3_811F_16D6_41D3_A7C4E2EF2BFD_mobile.url = https://maps.google.com/maps?output=embed&center=-22.5373887,-44.1981693&z=17&q=Estr.+Gov.+Chagas+Freitas,+22+-+a+-+Colonia+Santo+Antonio,+Barra+Mansa+-+RJ,+27351-720
+LinkBehaviour_9AAA52C6_811D_093E_41D5_D13AEAB80146.source = https://mnconstrutora.com/
+LinkBehaviour_A54D7F74_81F5_17DE_41C9_4344C631FEB9.source = https://mnconstrutora.com/
+LinkBehaviour_9DAAFF18_811F_3751_41C0_60A6006CF072.source = https://www.facebook.com/construtoramn
+LinkBehaviour_A54DFF73_81F5_17D7_41DC_D8BA1C030FD8.source = https://www.facebook.com/construtoramn
+LinkBehaviour_A54E5F71_81F5_17D3_41C1_233775B00192.source = https://www.instagram.com/construtoramn/
+LinkBehaviour_9DE3D8CA_811F_1936_41D5_9615F8FFED81.source = https://www.instagram.com/construtoramn/
+
+## Media
+
+### Audio
+audiores_96E1EEBA_8117_1951_419A_324A2AE63FC3.mp3Url = media/audio_96A56846_812B_3931_41B8_1F88F6A9E9F3_pt.mp3
+
+### Floorplan
+
+### Image
+imlevel_A40188CE_81EF_3931_41A6_6CFFE326FB3C.url = media/map_A15B9BDE_8238_5020_41D5_780CEFB3E41C_pt_0.png
+imlevel_A401B8CE_81EF_3931_41D0_79FCC998C57E.url = media/map_A15B9BDE_8238_5020_41D5_780CEFB3E41C_pt_1.png
+imlevel_A401C8CF_81EF_3ACF_41CB_41A73DE4F555.url = media/map_A15B9BDE_8238_5020_41D5_780CEFB3E41C_pt_2.png
+imlevel_A401F8CF_81EF_3ACF_41DF_CC25CF73E1CE.url = media/map_A15B9BDE_8238_5020_41D5_780CEFB3E41C_pt_3.png
+imlevel_A401E8CF_81EF_3ACF_41B6_02AE09202F91.url = media/map_A15B9BDE_8238_5020_41D5_780CEFB3E41C_pt_4.png
+imlevel_A4073904_81EF_3B31_41D5_57684DFAFBF9.url = media/map_A1B02013_8228_D021_41DD_B5409DBB43D5_pt_0.png
+imlevel_A4075904_81EF_3B31_41DE_07D2CC83CDF1.url = media/map_A1B02013_8228_D021_41DD_B5409DBB43D5_pt_1.png
+imlevel_A4074904_81EF_3B31_41D0_B47059EBCF18.url = media/map_A1B02013_8228_D021_41DD_B5409DBB43D5_pt_2.png
+imlevel_A4076905_81EF_3B33_41C4_940B87DDFA25.url = media/map_A1B02013_8228_D021_41DD_B5409DBB43D5_pt_3.png
+imlevel_A4078905_81EF_3B33_41D1_3D9AF63D6559.url = media/map_A1B02013_8228_D021_41DD_B5409DBB43D5_pt_4.png
+
+### Title
+panorama_93046724_8228_7067_41B3_CBBF6CC3A22B.label = CORREDORTOUR_PAV1
+panorama_92453A9C_8228_5027_41DD_22DDCF5BD8C3.label = COZINHATOUR_05
+panorama_91B9946F_8228_50E0_41D5_F0E73C9BD74F.label = COZINHATOUR_PAV1
+panorama_959510A6_8135_097E_41D5_FF1C630FF148.label = QUARTO CASAL 1 andar
+panorama_924E6E6F_8135_19CE_41DA_F705922132D0.label = QUARTO Social 1 andar
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_0.label = REV00_EXTERNO_01
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_1.label = REV00_EXTERNO_02
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_2.label = REV00_EXTERNO_03
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_3.label = REV00_EXTERNO_04
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_4.label = REV00_EXTERNO_05
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_5.label = REV00_EXTERNO_06
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_6.label = REV00_EXTERNO_07
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_7.label = REV00_EXTERNO_08
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_8.label = REV00_FACHADA_01
+album_A456EEBA_82D8_7063_41BC_8E88C0293753_9.label = REV00_FACHADA_02
+panorama_91BDA830_8228_7060_41DD_9AA49DDB3B56.label = REV00_LAZERTOUR_06
+panorama_9C6FD7B3_8278_D060_41D7_B9EE61182818.label = REV00_PH_01
+map_A15B9BDE_8238_5020_41D5_780CEFB3E41C.label = REV00_PH_01
+panorama_9BBB5EBA_8278_7060_41BE_559BF065B237.label = REV00_PH_02
+map_A1B02013_8228_D021_41DD_B5409DBB43D5.label = REV00_PH_02
+panorama_91BC755D_8228_5021_41DA_9F9CD809FE3C.label = REV00_QUARTOCASALTOUR_02
+panorama_91BCE367_8228_B0E1_418F_4974299495E5.label = REV00_QUARTOTOUR_03
+panorama_91BCEF28_8228_D06F_4192_0A83730DBADE.label = REV00_WCTOUR_04
+panorama_91BA1115_8229_B021_41D5_2FCD5ACD5E02.label = SALA 1 andar
+panorama_91BC1101_8228_D021_41D2_39D38D0D2CA9.label = Sala Térreo
+video_AA4297B2_8237_B063_41DF_A23F3E04A98F.label = VIDEO_EMPREE.COLONIA
+video_96C7E667_812F_09FF_41C2_EE3DA2693D21.label = Vídeo com audio
+panorama_924FEB71_8135_7FD2_41A1_21E28C266467.label = WC 1 andar
+album_A456EEBA_82D8_7063_41BC_8E88C0293753.label = Álbum de Fotos REV00_EXTERNO_01
+
+### Video
+videolevel_A40FAAA4_81EF_3971_41D4_25CB33965B19.posterURL = media/video_96C7E667_812F_09FF_41C2_EE3DA2693D21_poster_pt.jpg
+videolevel_A40FAAA4_81EF_3971_41D4_25CB33965B19.url = media/video_96C7E667_812F_09FF_41C2_EE3DA2693D21_pt.mp4
+videolevel_A40F1A4D_81EF_3933_41D5_C5C4E75954AE.posterURL = media/video_AA4297B2_8237_B063_41DF_A23F3E04A98F_poster_pt.jpg
+videolevel_A40F1A4D_81EF_3933_41D5_C5C4E75954AE.url = media/video_AA4297B2_8237_B063_41DF_A23F3E04A98F_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_A013F867_8258_50E1_41CA_D9CF05D8AE96.label = 1º Pavimento
+Button_A013F867_8258_50E1_41CA_D9CF05D8AE96_mobile.label = 1º Pavimento
+Button_9A1A822E_8175_094E_41A5_A6AA929A3960.label = Contatos  < >
+Button_9A1A822E_8175_094E_41A5_A6AA929A3960_mobile.label = Contatos  < >
+Button_9BC293D8_816B_0ED1_41D7_B39F46BA4D4A.label = Facebook
+Button_9BC293D8_816B_0ED1_41D7_B39F46BA4D4A_mobile.label = Facebook
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Fotos
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Fotos
+Button_9B28A8B7_816D_195F_41CC_15427C7FCD66_mobile.label = Instagram
+Button_9B28A8B7_816D_195F_41CC_15427C7FCD66.label = Instagram
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Localização
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Localização
+Button_9B28A8B7_816D_195F_41CC_15427C7FCD66_mobile.pressedLabel = Location
+Button_B2688167_8279_B0E0_41D4_78C29CFE2642.pressedLabel = Location
+Button_9A1A822E_8175_094E_41A5_A6AA929A3960.pressedLabel = Location
+Button_9BEBFB00_816F_3F32_41D4_4A29FDB025B9.pressedLabel = Location
+Button_9B28A8B7_816D_195F_41CC_15427C7FCD66.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_9BC293D8_816B_0ED1_41D7_B39F46BA4D4A.pressedLabel = Location
+Button_9BEBFB00_816F_3F32_41D4_4A29FDB025B9_mobile.pressedLabel = Location
+Button_9A7DA34F_816D_0FCE_41D4_C51E7F49CDC5.pressedLabel = Location
+Button_9BC293D8_816B_0ED1_41D7_B39F46BA4D4A_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_9A7DA34F_816D_0FCE_41D4_C51E7F49CDC5_mobile.pressedLabel = Location
+Button_B2688167_8279_B0E0_41D4_78C29CFE2642_mobile.pressedLabel = Location
+Button_9A1A822E_8175_094E_41A5_A6AA929A3960_mobile.pressedLabel = Location
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Planta baixa  < >
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Planta baixa  < >
+Button_9BEBFB00_816F_3F32_41D4_4A29FDB025B9.label = Site
+Button_9BEBFB00_816F_3F32_41D4_4A29FDB025B9_mobile.label = Site
+Button_9F41B330_8258_5060_41DB_DD944C3F42D0.label = Térreo
+Button_9F41B330_8258_5060_41DB_DD944C3F42D0_mobile.label = Térreo
+Button_B2688167_8279_B0E0_41D4_78C29CFE2642_mobile.label = Vídeo
+Button_B2688167_8279_B0E0_41D4_78C29CFE2642.label = Vídeo
+Button_9A7DA34F_816D_0FCE_41D4_C51E7F49CDC5.label = Whatsapp
+Button_9A7DA34F_816D_0FCE_41D4_C51E7F49CDC5_mobile.label = Whatsapp
+
+### Image
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_pt.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_pt.jpg
+Image_A181153F_811B_0B4E_41D7_CA3B8A081DAB_mobile.url = skin/Image_A181153F_811B_0B4E_41D7_CA3B8A081DAB_mobile_pt.png
+Image_A181153F_811B_0B4E_41D7_CA3B8A081DAB.url = skin/Image_A181153F_811B_0B4E_41D7_CA3B8A081DAB_pt.png
+Image_A216D4DD_82E8_D020_41DB_85B92EE65AF1_mobile.url = skin/Image_A216D4DD_82E8_D020_41DB_85B92EE65AF1_mobile_pt.png
+Image_A216D4DD_82E8_D020_41DB_85B92EE65AF1.url = skin/Image_A216D4DD_82E8_D020_41DB_85B92EE65AF1_pt.png
+Image_B2C387A2_83DB_B063_41BE_920381D8D3EE_mobile.url = skin/Image_B2C387A2_83DB_B063_41BE_920381D8D3EE_mobile_pt.jpg
+Image_B2C387A2_83DB_B063_41BE_920381D8D3EE.url = skin/Image_B2C387A2_83DB_B063_41BE_920381D8D3EE_pt.jpg
+Image_B2F707FE_8237_BFE3_41A7_0B3AA446C82E_mobile.url = skin/Image_B2F707FE_8237_BFE3_41A7_0B3AA446C82E_mobile_pt.png
+Image_B2F707FE_8237_BFE3_41A7_0B3AA446C82E.url = skin/Image_B2F707FE_8237_BFE3_41A7_0B3AA446C82E_pt.png
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>IMN CONSTRUTORA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://mnconstrutora.com/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffff00;font-size:17px;font-family:'Oswald Regular';"><I>www.mnconstrutora.com</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>Tel. (24) 3323-2907</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Oswald Regular';"><I>IMN CONSTRUTORA </I></SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://mnconstrutora.com/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffff00;font-size:12px;font-family:'Oswald Regular';"><I>mnconstrutora.com</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I>Tel. (24) 3323-2907</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MN Construtora
